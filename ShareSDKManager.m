@@ -19,6 +19,8 @@ static ShareSDKManager*_shardManager;
     return _shardManager;
 
 }
+
+#pragma mark - test commit 
 #pragma mark - 分享
 //- (void)preShareWithType:(ShareType)type item:(ShareItem *)sItem withCurrentView:(UIView*)currentView
 //{
